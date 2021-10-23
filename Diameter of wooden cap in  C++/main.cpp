@@ -4,6 +4,11 @@ using namespace std;
 
     int main()
     {
+    	cout<<"*******************"<<endl<<endl;
+		cout<<"Sajjad Ahmed Mallah"<<endl<<endl;
+		cout<<"Roll No# 17MN05"<<endl<<endl;
+		cout<<"*******************"<<endl<<endl;
+
     	float d, qt, Alpha, L, h, w, a, st, sigma,gamma,sigmasf;
 		cout << "\n\n Sajjad Ahmed Mallah 17MN05 :\n";
 		cout << "----------------------------------------------------------\n";		

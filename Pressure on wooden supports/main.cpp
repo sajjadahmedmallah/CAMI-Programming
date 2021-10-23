@@ -4,9 +4,13 @@
 using namespace std;
 int main()
 {
-	cout<<"___________________"<<endl;
-	cout<<"Sajjad Ahmed Mallah"<<endl;
-	cout<<"___________________"<<endl;
+	cout<<"-------------"<<endl<<endl;
+	
+	cout<<"Sajjad Ahmed"<<endl<<endl;
+	
+	cout<<"Roll No# 17MN05"<<endl<<endl;
+	
+	cout<<"-------------"<<endl<<endl;
 float a,r,f,pt,l,sigma,gamma;
 char ch;
 cout<<"Space between two sets = ";

@@ -12,6 +12,7 @@ cout<<"  1 for Bieniawiski approach "<<endl;
 cout<<"  2 for Obert-dwell approach "<<endl;
 cout<<"  3 for Solomon-munro approach" <<endl;
 cout<<"  4 for Holland-gaddy approach "<<endl<<endl;
+cout<<"  Enter Your Choice            "<< endl<<endl;
 cin>>in;
 switch (in)
 {

@@ -4,6 +4,11 @@
 using namespace std;
 int main()
 {
+	cout<<"*******************"<<endl<<endl;
+	cout<<"Sajjad Ahmed Mallah"<<endl<<endl;
+	cout<<"Roll No# 17MN05"<<endl<<endl;
+	cout<<"*******************"<<endl<<endl;
+
 float xb,ps,pi,c,co,p,h,m,b,ab,aw,gamma,speak,temp,w;
 cout<<"unit weight of roof rock";
 cin>>gamma;
